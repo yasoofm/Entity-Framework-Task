@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\models\\formblogadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:models\\formblogadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\migrations\\bloggingcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:migrations\\bloggingcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\views\\blog\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:views\\blog\\addblog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\migrations\\20240418102507_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:migrations\\20240418102507_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|c:\\users\\ytman\\desktop\\asp .net\\entity-framework\\models\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B1BDA26-A22E-4A5F-B830-F329A935F8A1}|Entity-FrameWork.csproj|solutionrelative:models\\bloggingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormBlogAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Models\\FormBlogAdd.cs",
+              "RelativeDocumentMoniker": "Models\\FormBlogAdd.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Models\\FormBlogAdd.cs",
+              "RelativeToolTip": "Models\\FormBlogAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:50:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BloggingContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Migrations\\BloggingContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BloggingContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Migrations\\BloggingContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BloggingContextModelSnapshot.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:38:02.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240418102507_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Migrations\\20240418102507_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240418102507_Initial.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Migrations\\20240418102507_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240418102507_Initial.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:37:27.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBlog.cshtml",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Views\\Blog\\AddBlog.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\AddBlog.cshtml",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Views\\Blog\\AddBlog.cshtml",
+              "RelativeToolTip": "Views\\Blog\\AddBlog.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T11:37:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Models\\Blog.cs",
+              "RelativeToolTip": "Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:15:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwB8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:14:41.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:32:06.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BloggingContext.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Models\\BloggingContext.cs",
+              "RelativeDocumentMoniker": "Models\\BloggingContext.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Entity-FrameWork\\Models\\BloggingContext.cs",
+              "RelativeToolTip": "Models\\BloggingContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:58:24.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
